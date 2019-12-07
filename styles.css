@@ -118,5 +118,6 @@ h3{
           color:black;
       }
       footer{
-          
+         display:flex;
+         text-align:center;
       }
