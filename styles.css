@@ -71,7 +71,22 @@ h3{
     background-blend-mode:0.5;
 }
 .contact{
-    position:absolute;
-    right:40%;
-    width:580px;
-}
+    background-image: url('css/backgrounds/c_image.jpg');
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    
+  }
+  .contact h3{
+    text-align: center;
+    margin-top: 30px;
+    padding-top: 40px;
+    padding-bottom: 20px;
+    font-family: 'Gabriela', serif;
+  }input[type=text],input[type=email],#comment{
+    background: transparent;
+    color: white;
+    font-size: 20px;
+    font-family: 'Copse', serif;
+  }
