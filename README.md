@@ -21,4 +21,4 @@ https://evans-o.github.io/Delani-Studio
 <li>E-mail:<a href="https://www.yahoo.com/">evansopindi@yahoo.com</a></li>
 <h2>LICENSE</h2>
 <p>This project is under the license of <a href=https://opensource.org/licenses/MIT>MIT.</a></p>
-  <h3>COpyright (C)2019 Evans Oindi</h3>
+  <h3>COpyright (C)2019 Evans Opindi</h3>
