@@ -39,7 +39,7 @@ h3{
     text-align:center;
     font-weight:bolder;
 }
-.names{
+.names,.pict{
     display:flex;
     justify-content:space-evenly; 
 }
