@@ -1,0 +1,50 @@
+h1,p,.icon,.mouse,.logo{
+    text-align:center;
+    color:white;
+}
+.img{
+    background-image:url("css/h_img.jpg");
+}
+.about,.service{
+    text-align:center;
+}
+.about >p {
+    position:relative;
+    color:black;
+    width:900px;
+    align-self: center;
+    left:450px;
+
+}
+.service{
+    background-image:url("css/s_image.jpg");
+}
+.service >h2{
+    font-weight:bolder;
+    color:whitesmoke;
+}
+.service >p{
+    position:relative;
+    color:whitesmoke;
+    width:900px;
+    align-self: center;
+    left:450px
+}
+.logo{
+    display:flex;
+    justify-content:space-evenly;
+}
+h3{
+    color:black;
+    text-align:center;
+    font-weight:bolder;
+}
+.names{
+    display:flex;
+    justify-content:space-evenly; 
+}
+.names >p{
+    position:relative;
+    left:55px;
+    color: black;
+}
