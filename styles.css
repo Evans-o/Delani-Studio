@@ -48,3 +48,17 @@ h3{
     left:55px;
     color: black;
 }
+.bail{
+    background-image: url("images/portfolio/work8.jpg");
+    width:355px;
+    background-size:cover;
+    opacity:1;
+}
+.bail >span{
+    font-weight:bolder;
+    border:2px solid white;
+    margin:50px;
+    margin-top:50px;
+    text-align:center;
+
+}
