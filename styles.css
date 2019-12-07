@@ -5,7 +5,7 @@ h1,p,.icon,.mouse,.logo{
 .img{
     background-image:url("css/h_img.jpg");
 }
-.about,.service{
+.about,.service, .contact{
     text-align:center;
 }
 .about >p {
@@ -69,4 +69,9 @@ h3{
     margin-right:20px;
     background-color: dark black;
     background-blend-mode:0.5;
+}
+.contact{
+    position:absolute;
+    right:40%;
+    width:580px;
 }
