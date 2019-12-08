@@ -93,7 +93,7 @@ h3{
     padding-top: 40px;
     padding-bottom: 20px;
     color:white;
-  }input[type=text],input[type=email],#comment{
+  }input[type=text] [action="https://us4.admin.mailchimp.com/landing-pages/design?id=8023input"][type=email],#comment{
     background: transparent;
     color: white;
     font-size: 20px;
