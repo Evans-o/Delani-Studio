@@ -4,7 +4,7 @@ html{
 }
 h1,p,.icon,.mouse,.logo{
     text-align:center;
-    color:white;
+    color:black;
 }
 body{
     overflow-x: hidden;
@@ -159,4 +159,12 @@ h3{
         padding-top:40px;
         font-family: 'Gabriela', serif;
       }
-      
+      #product, #development, #design{
+        display: none;
+        font-family: 'Copse', serif;
+        font-size: 16px;
+      }
+      #product .title, #development .title, #design .title{
+        font-size: 20px;
+        font-weight: 600;
+      }
