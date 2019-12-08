@@ -171,5 +171,8 @@ h3{
       }
       .pro{
         position:relative;
-        right:130px;
+        right:7px;
+      }
+      .what-we-do,h2{
+        text-align:center;
       }
