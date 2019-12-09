@@ -62,6 +62,14 @@ $(document).ready(function(){
         $("#overlay2").hide("200");
       }
     )
+    $("#work3").hover(
+      function() {
+        $("#overlay3").show("200");
+      },
+      function() {
+        $("#overlay3").hide("200");
+      }
+    )
   })
 
   
