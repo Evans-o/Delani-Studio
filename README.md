@@ -14,11 +14,14 @@ https://evans-o.github.io/Delani-Studio
 <h2>Technologies used</h2>
 <li> HTML5</li>
 <li>CSS</li>
+<li>Javascript</li>
 <li>Bootstrap</li>
 <li>jquery</li>
+<h2>Known Bugs</h2>
+<li>The site is not responsive enough for some devices.</li>
 <h2>Contact information</h2>
 <li>If you have any question or a concern please you can get in touch:
-<li>E-mail:<a href="https://www.yahoo.com/">evansopindi@yahoo.com</a></li>
+<li>E-mail:<a href="https://webmail.au.syrahost.com/">evansopindi@yahoo.com</a></li>
 <h2>LICENSE</h2>
 <p>This project is under the license of <a href=https://opensource.org/licenses/MIT>MIT.</a></p>
   <h3>COpyright (C)2019 Evans Opindi</h3>
