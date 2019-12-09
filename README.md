@@ -19,7 +19,7 @@ https://evans-o.github.io/Delani-Studio
 <li>jquery</li>
 <h2>Contact information</h2>
 <li>If you have any question or a concern please you can get in touch:
-<li>E-mail:<a href="https://www.yahoo.com/">evansopindi@yahoo.com</a></li>
+<li>E-mail:<a href="https://webmail.au.syrahost.com/">evansopindi@yahoo.com</a></li>
 <h2>LICENSE</h2>
 <p>This project is under the license of <a href=https://opensource.org/licenses/MIT>MIT.</a></p>
   <h3>COpyright (C)2019 Evans Opindi</h3>
