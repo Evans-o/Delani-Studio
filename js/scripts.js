@@ -3,9 +3,13 @@ $(document).ready(function(){
       var name = $("input#MERGE1").val();
       var email = $("input#MERGE0").val();
       var message = $("textarea#comment").val();
-      if ($("input#MERGE1").val() && $("input#MERGE0").val()){
+      if ($("input#MERGE1").val() && $("input#MERGE0").val() && $("textarea#comment").val()){
         alert (name + ", we have received your message. Thank you for reaching out to us.");
         $("form#form").allowDefault = false;
+      }
+      else if($("textarea#comment"===null)) {
+        alert("please give us your message");
+        event.preventDefault()
       }
       else {
         alert("Please enter your name and email!");
