@@ -70,6 +70,22 @@ $(document).ready(function(){
         $("#overlay3").hide("200");
       }
     )
+    $("#work4").hover(
+      function() {
+        $("#overlay4").show("1000");
+      },
+      function() {
+        $("#overlay4").hide("1000");
+      }
+    )
+    $("#work5").hover(
+      function() {
+        $("#overlay5").show("200");
+      },
+      function() {
+        $("#overlay5").hide("200");
+      }
+    )
   })
 
   
