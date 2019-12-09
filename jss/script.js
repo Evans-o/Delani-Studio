@@ -46,7 +46,7 @@ $(document).ready(function(){
       $("#product-image").slideDown('1500');
     });
 $(".#work1").hover(function(){
-  $('#work2').toggle();
+  $('#overlay2').toggle();
 })
 
   });
