@@ -14,6 +14,7 @@ https://evans-o.github.io/Delani-Studio
 <h2>Technologies used</h2>
 <li> HTML5</li>
 <li>CSS</li>
+<li>Javascript</li>
 <li>Bootstrap</li>
 <li>jquery</li>
 <h2>Contact information</h2>
