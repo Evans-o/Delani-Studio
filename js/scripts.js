@@ -86,6 +86,30 @@ $(document).ready(function(){
         $("#overlay5").hide("200");
       }
     )
+    $("#work6").hover(
+      function() {
+        $("#overlay6").show("200");
+      },
+      function() {
+        $("#overlay6").hide("200");
+      }
+    )
+    $("#work7").hover(
+      function() {
+       $("#overlay7").show("200");
+      },
+      function() {
+        $("#overlay7").hide("200");
+      }
+    )
+    $("#work8").hover(
+      function() {
+        $("#overlay8").show("200");
+      },
+      function() {
+        $("#overlay8").hide("2000");
+      }
+    )
   })
 
   
