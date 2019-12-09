@@ -54,6 +54,14 @@ $(document).ready(function(){
         $("#overlay").hide("2000");
       }
     )
+    $("#work2").hover(
+      function() {
+        $("#overlay2").show("200");
+      },
+      function() {
+        $("#overlay2").hide("200");
+      }
+    )
   })
 
   
