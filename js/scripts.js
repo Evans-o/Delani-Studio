@@ -8,7 +8,11 @@ $(document).ready(function(){
         $("form#form").allowDefault = false;
       }
       else if($("textarea#comment"===null)) {
-        alert("please give us your message");
+        alert("please enter your name,email and your message!");
+        event.preventDefault()
+      }
+      else if($("input#MERGE0"===null)) {
+        alert("please enter your email");
         event.preventDefault()
       }
       else {
