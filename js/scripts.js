@@ -5,7 +5,7 @@ $(document).ready(function(){
       var message = $("textarea#comment").val();
       if ($("input#MERGE1").val() && $("input#MERGE0").val()){
         alert (name + ", we have received your message. Thank you for reaching out to us.");
-        $("form#form").allowDefault = true;
+        $("form#form").allowDefault = false;
       }
       else {
         alert("Please enter your name and email!");
@@ -45,4 +45,15 @@ $(document).ready(function(){
       $("#product-image").slideDown('1500');
     });
   });
+  $(document).ready(function() {
+    $("#work1").hover(
+      function() {
+        $("#overlay").show("2000");
+      },
+      function() {
+        $("#overlay").hide("2000");
+      }
+    )
+  })
+
   
