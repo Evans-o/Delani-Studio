@@ -17,6 +17,8 @@ https://evans-o.github.io/Delani-Studio
 <li>Javascript</li>
 <li>Bootstrap</li>
 <li>jquery</li>
+<h2>Known Bugs</h2>
+<li>The site is not responsive enough for some devices.</li>
 <h2>Contact information</h2>
 <li>If you have any question or a concern please you can get in touch:
 <li>E-mail:<a href="https://webmail.au.syrahost.com/">evansopindi@yahoo.com</a></li>
