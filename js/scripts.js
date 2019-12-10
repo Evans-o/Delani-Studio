@@ -56,10 +56,10 @@ $(document).ready(function(){
   $(document).ready(function() {
     $("#work1").hover(
       function() {
-        $("#overlay").show("2000");
+        $("#overlay").show("200");
       },
       function() {
-        $("#overlay").hide("2000");
+        $("#overlay").hide(3000);
       }
     )
     $("#work2").hover(
@@ -67,7 +67,7 @@ $(document).ready(function(){
         $("#overlay2").show("200");
       },
       function() {
-        $("#overlay2").hide("200");
+        $("#overlay2").hide(3000);
       }
     )
     $("#work3").hover(
@@ -75,15 +75,15 @@ $(document).ready(function(){
         $("#overlay3").show("200");
       },
       function() {
-        $("#overlay3").hide("200");
+        $("#overlay3").hide(3000);
       }
     )
     $("#work4").hover(
       function() {
-        $("#overlay4").show("1000");
+        $("#overlay4").show("200");
       },
       function() {
-        $("#overlay4").hide("1000");
+        $("#overlay4").hide(3000);
       }
     )
     $("#work5").hover(
@@ -91,7 +91,7 @@ $(document).ready(function(){
         $("#overlay5").show("200");
       },
       function() {
-        $("#overlay5").hide("200");
+        $("#overlay5").hide(3000);
       }
     )
     $("#work6").hover(
@@ -99,7 +99,7 @@ $(document).ready(function(){
         $("#overlay6").show("200");
       },
       function() {
-        $("#overlay6").hide("200");
+        $("#overlay6").hide(3000);
       }
     )
     $("#work7").hover(
@@ -107,7 +107,7 @@ $(document).ready(function(){
        $("#overlay7").show("200");
       },
       function() {
-        $("#overlay7").hide("200");
+        $("#overlay7").hide(3000);
       }
     )
     $("#work8").hover(
@@ -115,7 +115,7 @@ $(document).ready(function(){
         $("#overlay8").show("200");
       },
       function() {
-        $("#overlay8").hide("2000");
+        $("#overlay8").hide(3000);
       }
     )
   })
