@@ -179,6 +179,10 @@ h3{
       .what-we-do,h2{
         text-align:center;
       }
+.container what-we-do >h2,p{
+        color:black;
+      }
+
       #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
         display: none;
         color: black;
