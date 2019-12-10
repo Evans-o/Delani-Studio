@@ -14,7 +14,7 @@ body{
 .img{
     background-image:url("css/h_img.jpg");
 }
-.img >h1,p{
+#wel{
   color:white;
 }
 .about,.service, .contact{
