@@ -14,7 +14,11 @@ body{
 .img{
     background-image:url("css/h_img.jpg");
 }
+<<<<<<< HEAD
 #wel {
+=======
+#wel{
+>>>>>>> 5d0a15ddc9bf2bad338ec22f9e7e5980851e7302
   color:white;
 }
 .about,.service, .contact{
@@ -180,9 +184,16 @@ h3{
       .what-we-do,h2{
         text-align:center;
       }
+<<<<<<< HEAD
       .container what-we-do >h2,p{
         color:black;
       }
+=======
+.container what-we-do >h2,p{
+        color:black;
+      }
+
+>>>>>>> 5d0a15ddc9bf2bad338ec22f9e7e5980851e7302
       #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
         display: none;
         color: black;
@@ -198,3 +209,9 @@ h3{
         padding-top: 50%;
         font-family: 'Delius Swash Caps', cursive;
       }
+<<<<<<< HEAD
+=======
+#wel{
+  color:white;
+}
+>>>>>>> 5d0a15ddc9bf2bad338ec22f9e7e5980851e7302
