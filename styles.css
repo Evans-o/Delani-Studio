@@ -4,7 +4,7 @@ html{
 }
 h1,p,.icon,.mouse,.logo{
     text-align:center;
-    color:black;
+    color:white;
 }
 body{
     overflow-x: hidden;
@@ -14,7 +14,7 @@ body{
 .img{
     background-image:url("css/h_img.jpg");
 }
-.img >h1,p{
+#wel {
   color:white;
 }
 .about,.service, .contact{
@@ -97,9 +97,9 @@ h3{
     padding-top: 40px;
     padding-bottom: 20px;
     color:white;
-  }input[type=text] [type=email],#comment{
-    background: transparent;
-    color: white;
+  }input[type=text] [type=email],#comm{
+    background:transparent;
+    color: white; 
     font-size: 20px;
     font-family: 'Copse', serif;
   }
@@ -113,9 +113,10 @@ h3{
       #MERGE0{
         width: 30%;
       }
-      #comment{
+      #comm{
         margin-left: 20%;
         width: 60%;
+        color:white;
       }
       button{
         margin-left: 20%;
