@@ -2,7 +2,7 @@
 html{
   scroll-behavior: smooth;
 }
-.landing{
+.img{
   background-image: url("css/h_img.jpg");
   background-position: center center;
   background-size: cover;
