@@ -30,7 +30,6 @@ html{
   padding-top : 22px;
   margin-top: 10%;
   padding-bottom: 30px; 
-  /* animation-iteration-count: infinite; */
 }
 #mouse-click {
   animation: bounce 2s infinite;
@@ -52,7 +51,6 @@ html{
   text-align: center;
   padding-bottom: 30px;
   padding-top:40px;
-  font-family: 'Copse', serif;
 }
 #about{
   font-family: 'Gabriela', serif;
@@ -66,10 +64,6 @@ html{
   background-repeat: no-repeat;
   font-family: 'Copse', serif;
   font-size: 18px;
-}
-.services h2{
-  font-family: 'Gabriela', serif;
-  
 }
 #servicesoverlay{
   background-color: rgba(0,0,0,0.4);
@@ -170,13 +164,12 @@ footer p{
   height: 100%;
   background-color:rgba(255, 255, 255, 0.456);
   position:absolute;
-  top: 20px;
+  bottom: 500px;
   left: 35px;
   font-weight: bold;
   text-align: center;
-  font-size: 30px;
+  font-size: 25px;
   padding-top: 50%;
-  font-family: 'Delius Swash Caps', cursive;
 }
 @media only screen and (max-width: 755px){
   #overlay,#overlay2,#overlay3,#overlay4,#overlay5,#overlay6,#overlay7,#overlay8{
